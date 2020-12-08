@@ -1,5 +1,21 @@
 # Changelog
 
+## [3.3.0](https://www.github.com/jef/streetmerchant/compare/v3.2.0...v3.3.0) (2020-12-08)
+
+
+### Features
+
+* **docs:** add mkdocs ([243109a](https://www.github.com/jef/streetmerchant/commit/243109a4ffdfe1d1efe961af0b5cf28fd7e6ef1d))
+* **store:** add Megekko ([#1216](https://www.github.com/jef/streetmerchant/issues/1216)) ([30bed2a](https://www.github.com/jef/streetmerchant/commit/30bed2ac016e9e543f67b1098819a484bc1394c3))
+* **store:** add Walmart (CA) ([#1253](https://www.github.com/jef/streetmerchant/issues/1253)) ([b535b47](https://www.github.com/jef/streetmerchant/commit/b535b470cad38af034889b4d27578b20136e166d))
+
+
+### Bug Fixes
+
+* **amazon-it:** maxPrice selector and links ([#1239](https://www.github.com/jef/streetmerchant/issues/1239)) ([84f2cb7](https://www.github.com/jef/streetmerchant/commit/84f2cb7d52fac7c3dbdd31318a51330e25808784))
+* **ci:** mkdocs deps ([1f63e99](https://www.github.com/jef/streetmerchant/commit/1f63e9980499ac567845473dc48e51cab78c838e))
+* **store:** italian store checks ([#1212](https://www.github.com/jef/streetmerchant/issues/1212)) ([e3eb386](https://www.github.com/jef/streetmerchant/commit/e3eb38655a3cefb85c4dbd573494955e06c72f71))
+
 ## [3.2.0](https://www.github.com/jef/streetmerchant/compare/v3.1.0...v3.2.0) (2020-12-06)
 
 
